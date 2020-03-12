@@ -2,9 +2,9 @@
 
 ### 安装包
 
-![app-release.apk](https://github.com/zdfdonny/ScreenLive/master/app-release.apk)
+![app-release.apk](https://github.com/zdfdonny/ScreenLive/blob/master/app-release.apk)
 
 
 ### 测试实例
 
-![视频](https://github.com/zdfdonny/ScreenLive/master/video.mp4)
+![视频](https://github.com/zdfdonny/ScreenLive/blob/master/video.mp4)
